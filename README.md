@@ -1,3 +1,6 @@
+# dApp starter , tailwind 3, react, rainbowkit.
+Build as static
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
